@@ -22,8 +22,8 @@ This is a simple to-do list application built with Laravel 11. It allows users t
 
 1. Clone the repository:
     ```bash
-    git clone <repository_url>
-    cd <repository_name>
+    git clone <[repository_url](https://github.com/noor-nazim/To_Do_List_Laravel-11)>
+    cd <To_Do_List_Laravel-11>
     ```
 
 2. Install dependencies:
