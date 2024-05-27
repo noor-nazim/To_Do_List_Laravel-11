@@ -42,22 +42,17 @@ This is a simple to-do list application built with Laravel 11. It allows users t
     DB_DATABASE=/path_to_your_database/database.sqlite
     ```
 
-5. Create the SQLite database file:
-    ```bash
-    touch /path_to_your_database/database.sqlite
-    ```
-
-6. Generate the application key:
+5. Generate the application key:
     ```bash
     php artisan key:generate
     ```
 
-7. Run the migrations:
+6. Run the migrations:
     ```bash
     php artisan migrate
     ```
 
-8. Serve the application:
+7. Serve the application:
     ```bash
     php artisan serve
     ```
